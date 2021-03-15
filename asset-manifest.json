@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/videochat-app/static/css/main.3456f2e9.chunk.css",
+    "main.js": "/videochat-app/static/js/main.0574bb1d.chunk.js",
+    "main.js.map": "/videochat-app/static/js/main.0574bb1d.chunk.js.map",
+    "runtime-main.js": "/videochat-app/static/js/runtime-main.7c125f1a.js",
+    "runtime-main.js.map": "/videochat-app/static/js/runtime-main.7c125f1a.js.map",
+    "static/js/2.b64359a0.chunk.js": "/videochat-app/static/js/2.b64359a0.chunk.js",
+    "static/js/2.b64359a0.chunk.js.map": "/videochat-app/static/js/2.b64359a0.chunk.js.map",
+    "static/js/3.7c212c25.chunk.js": "/videochat-app/static/js/3.7c212c25.chunk.js",
+    "static/js/3.7c212c25.chunk.js.map": "/videochat-app/static/js/3.7c212c25.chunk.js.map",
+    "index.html": "/videochat-app/index.html",
+    "static/css/main.3456f2e9.chunk.css.map": "/videochat-app/static/css/main.3456f2e9.chunk.css.map",
+    "static/js/2.b64359a0.chunk.js.LICENSE.txt": "/videochat-app/static/js/2.b64359a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c125f1a.js",
+    "static/js/2.b64359a0.chunk.js",
+    "static/css/main.3456f2e9.chunk.css",
+    "static/js/main.0574bb1d.chunk.js"
+  ]
+}
