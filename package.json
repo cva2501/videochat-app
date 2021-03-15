@@ -2,6 +2,7 @@
   "name": "videochat-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Deathstroke1999-ui.github.io/chitocam",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
@@ -15,8 +16,8 @@
     "simple-peer": "^9.9.3",
     "socket.io": "^4.0.0",
     "socket.io-client": "^4.0.0",
-    "web-vitals": "^1.1.0",
-    "homepage": "https://github.com/Deathstroke1999-ui/chitoapp.git"
+    "web-vitals": "^1.1.0"
+
   },
   "scripts": {
     "start": "react-scripts start",

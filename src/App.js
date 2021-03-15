@@ -153,7 +153,7 @@ function App() {
 						</Button>
 					</div>
 				) : null}
-			</div>rm -rf .git
+			</div>
 
 		</div>
 		</>
