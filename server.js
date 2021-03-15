@@ -4,7 +4,7 @@ const app = express()
 const server = http.createServer(app)
 const io = require("socket.io")(server, {
 	cors: {
-		origin: "https://cva2501.github.io/videochat-app/",
+		origin: "http://localhost:3000",
 		methods: [ "GET", "POST" ]
 	}
 })
