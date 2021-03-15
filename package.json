@@ -2,7 +2,7 @@
   "name": "videochat-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Deathstroke1999-ui.github.io/chitocam",
+  "homepage": "https://cva2501.github.io/videochat-app",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
@@ -17,7 +17,6 @@
     "socket.io": "^4.0.0",
     "socket.io-client": "^4.0.0",
     "web-vitals": "^1.1.0"
-
   },
   "scripts": {
     "start": "react-scripts start",
@@ -26,7 +25,7 @@
     "eject": "react-scripts eject",
     "dev": "nodemon server.js",
     "predeploy": "npm run build",
-"deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
