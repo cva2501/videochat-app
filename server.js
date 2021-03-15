@@ -25,4 +25,6 @@ io.on("connection", (socket) => {
 	})
 })
 
-server.listen(5000, "https://cva2501.github.io/videochat-app/",() => console.log("server is running on port 5000"))
+server.listen(3002, "https://cva2501.github.io/videochat-app/",() => {
+	console.info(`Socket server started on ${'https://cva2501.github.io/videochat-app/'}:${3002} (${ENV})`);
+  })
